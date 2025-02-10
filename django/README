@@ -1,0 +1,4 @@
+py -m venv name_of_virutal_environment
+install django
+django-admin startproject projectname
+py manage.py runserver
