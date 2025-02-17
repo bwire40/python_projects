@@ -1,1 +1,2 @@
-src for our django code
+create src for our django code
+django-admin startproject project_name .
